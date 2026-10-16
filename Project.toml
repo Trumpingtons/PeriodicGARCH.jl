@@ -1,6 +1,6 @@
 name = "PeriodicGARCH"
 uuid = "4cc252c1-db3c-4032-95a0-4e0e44ea42a7"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Antonio Saragga Seabra"]
 
 [deps]

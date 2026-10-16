@@ -21,6 +21,10 @@ sqrt.(m.h)  # the conditional volatility
 
 [Periodic GARCH: volatility with a calendar dummy](vignette/PeriodicGARCH.pdf)
 
+## License
+
+MIT (see [LICENSE](LICENSE)).
+
 ## Tests
 
 The tests compute the published tables below from their data and check every printed value, rounded to the digits printed:

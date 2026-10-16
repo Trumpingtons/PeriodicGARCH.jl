@@ -1,0 +1,15 @@
+# The vignette of PeriodicGARCH.jl, written by Pollis (Compose > New Methods > Package and Publish) and shown in
+# Help > Documentation > Vignettes once the package is installed.
+
+article = "https://doi.org/10.1080/07350015.1996.10524640"
+author = "Antonio Saragga Seabra"
+citation = "Bollerslev, T. and Ghysels, E. (1996). Periodic autoregressive conditional heteroscedasticity. Journal of Business & Economic Statistics 14(2), 139-151."
+description = "Bollerslev and Ghysels's periodic GARCH(1,1), with a calendar dummy in the mean and the variance equation, fitted by quasi-maximum likelihood with robust standard errors, and the statistics of their Table 2."
+license = "MIT"
+method = "Periodic GARCH: volatility with a calendar dummy"
+package = "PeriodicGARCH"
+pdf = "PeriodicGARCH.pdf"
+repository = "https://github.com/Trumpingtons/PeriodicGARCH.jl"
+title = "Periodic GARCH: volatility with a calendar dummy"
+topic = "Volatility"
+version = "0.2.0"
